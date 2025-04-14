@@ -1,4 +1,4 @@
-﻿# STA2453_Project
+﻿# STA2453 Project: CNN-based Zooplankton Classifier
 
 This is the code for my STA2453 course project "CNN Classifier for Zooplankton Data". This repository contains two Jupyter notebooks: `Zooplankton_EDA.ipynb` is for generating images for exploratory data analysis (EDA) and `Zooplankton_model.ipynb` is for the convolutional neural network (CNN) models. 
 
