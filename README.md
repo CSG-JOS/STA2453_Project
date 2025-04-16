@@ -6,7 +6,7 @@ This model takes a full TIFF image, along with its respective overlap.csv featur
 
 ![alt text](https://github.com/CSG-JOS/STA2453_Project/blob/main/figures/confusion_matrix_full_model.png "full_model_CM")
 
-Moreover, ablation study is done to verify the effects of image and featured data to the model. The model trained using only TIFF images yields 78.3% test accuracy and the model trained using shape-related featured data from overlap.csv files yields 85.21$ test accuracy. The confusion matrices of these two models are as follows: 
+Moreover, ablation study is done to verify the effects of image and featured data to the model. The model trained using only TIFF images yields 78.3% test accuracy and the model trained using shape-related featured data from overlap.csv files yields 85.21% test accuracy. The confusion matrices of these two models are as follows: 
 
 ![alt text](https://github.com/CSG-JOS/STA2453_Project/blob/main/figures/confusion_matrix_ablation.png "ablation_study_CM")
 
